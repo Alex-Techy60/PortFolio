@@ -20,7 +20,7 @@ function About() {
           <h2 className="text-3xl md:text-4xl font-semibold mb-2">About Me</h2>
           <div className="w-16 h-1 bg-violet-600 mb-6"></div>
 
-          <h3 className="text-2xl font-bold mb-4 text-white">Sugyan Singh</h3>
+          <h3 className="text-2xl font-bold mb-4 text-violet-400">Sugyan Singh</h3>
 
           <p className="text-gray-400 leading-relaxed mb-6">
             I’m a second-year B.Tech Computer Science student at IIIT Dharwad,
