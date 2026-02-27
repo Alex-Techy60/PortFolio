@@ -2,7 +2,7 @@ import C102_Suggu from "../assets/C102_Suggu.JPG";
 
 function About() {
   return (
-    <section id="about" className="py-32 px-6 bg-[#161028]">
+    <section id="about" className="py-32 px-6 bg-[#0f0a1f]">
       <div className="max-w-6xl mx-auto grid md:grid-cols-2 gap-12 items-center">
         {/* LEFT SIDE - IMAGE */}
         <div className="flex justify-center md:justify-start">

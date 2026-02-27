@@ -1,4 +1,4 @@
-import {About, Contact, Experience, Footer, Hero, Navbar, Projects, TechStack} from "./components";
+import {About, Contact, Experience, Footer, Hero, Navbar, Projects, TechStack, ScrollToTop} from "./components";
 
 function App() {
   return (
@@ -11,6 +11,7 @@ function App() {
       <Experience />
       <Contact />
       <Footer />
+      <ScrollToTop />
     </div>
   );
 }
