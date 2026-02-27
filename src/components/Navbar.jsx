@@ -77,7 +77,7 @@ function Navbar() {
 
               {/* Active underline */}
               <span
-                className={`absolute left-0 -bottom-1 h-[2px] bg-violet-500 transition-all duration-300 ${
+                className={`absolute left-0 -bottom-1 h-0.5 bg-violet-500 transition-all duration-300 ${
                   active === link.id ? "w-full" : "w-0"
                 }`}
               />
